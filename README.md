@@ -1,5 +1,6 @@
-# iosd_ml_task
+# iosd_ml_task [link](https://www.kaggle.com/code/anantgokhale/v2-iosd-svm-model)
 > Given a dataset create an svm model to predict whether an asteroid is hazardous or not
+
 
 Given a [dataset](https://github.com/Anant5Gokhale/iosd_ml_task/blob/main/neo.csv), the aim is to implement a SVM model and provide a comparative study using different kernels(linear, polynomial, gaussian, sigmoid, RBF etc) using precision and f1-scores.
 The SVM model used here is for classifying data as hazardous or non-hazardous.
