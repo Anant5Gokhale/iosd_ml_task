@@ -1,4 +1,4 @@
-# iosd_ml_task [link](https://www.kaggle.com/code/anantgokhale/v2-iosd-svm-model)
+# iosd_ml_task 
 > Given a dataset create an svm model to predict whether an asteroid is hazardous or not
 
 
